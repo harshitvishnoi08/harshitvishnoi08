@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Harshit Vishnoi
 
 🎓 B.Tech CSIT | Generative AI, ML, and Backend Enthusiast  
-📍 Ghaziabad, India | 💼 Open to Internship Opportunities  
-📬 vishnoih10@gmail.com | 📱 +91 8178295081
+📍 Ghaziabad, India 
+📬 vishnoih10@gmail.com 
+
 
 ---
 
